@@ -4,6 +4,8 @@
 
 You can use one or both classes
 
+*/
+
 .on {
     color: teal;
     border: 2px solid rgba(0, 187, 187, 0.7);
@@ -15,5 +17,3 @@ You can use one or both classes
     border: 2px solid rgba(41, 41, 41, 0.4);
     box-shadow: 1px 1px 10px rgb(200, 200, 200);
 }
-
-*/
